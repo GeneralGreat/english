@@ -2,11 +2,11 @@ import os
 import random
 class English_language:
     def __init__(self):
-        self.nouns = ["cat", "dog", "apple", "jew", "tomato", "chamber", "Hitler", "computer", "library", "bookshelf", "book", "mouse", "elephant", "wall", "floor", "outlet", "poster", "glass", "logo", "officer", "firetruck", "humidifier", "pen", "pencil", "fork", "spoon", "hospital", "house", "lightbulb", "crab", "robot"]
-        self.verbs = ["consume", "eat", "swallow", "devour", "burn", "gas", "photograph", "drink", "type", "read", "destroy", "explode", "strike", "smash", "crush", "mash", "electrocute", "shock", "incinerate", "break"]
+        self.nouns = ["cat", "dog", "apple", "jew", "tomato", "chamber", "Hitler", "computer", "library", "bookshelf", "book", "mouse", "elephant", "wall", "floor", "outlet", "poster", "glass", "logo", "officer", "firetruck", "humidifier", "pen", "pencil", "fork", "spoon", "hospital", "house", "lightbulb", "crab", "robot", "table", "mirror", "lunchbox", "orange", "bag", "backpack", "lunchbox", "paper", "printer", "grapefruit", "artwork", "pencil", "animal","earbuds", "headphones", "fire fighter", "fire", "bottle" "mosque", "temple", "pool", "beach", "fiction", "fantasy"]
+        self.verbs = ["consume", "eat", "swallow", "devour", "burn", "gas", "photograph", "drink", "type", "read", "destroy", "explode", "strike", "smash", "crush", "mash", "electrocute", "shock", "incinerate", "break","bite", "attack"]
         self.indirect_verbs = ["run", "walk", "jump", "swim", "look", "drink", "read", "write"]
         self.prepositions = ["over", "through", "about", "under", "in", "around"]
-        self.adjectives = ["hungry", "round", "purple", "blue", "small", "huge", "red", "green", "orange", "pink", "dark", "angry", "depressed", "laughing", "crazy", "dumb", "awesome", "cold", "hot", "warm", "hurt", "light"]
+        self.adjectives = ["hungry", "round", "purple", "blue", "small", "huge", "red", "green", "orange", "pink", "dark", "angry", "depressed", "laughing", "crazy", "dumb", "awesome", "cold", "hot", "warm", "hurt", "light", "filthy", "powerful"]
         self.adverbs = ["quickly", "suddenly", "often", "slowly", "rapidly", "spontaneously", "voraciously", "rarely", "unexpectedly", "unfortunately"]
         self.articles = ["the", "a"]
         self.relative_pronouns = ["that", "which"]
