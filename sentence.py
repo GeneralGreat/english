@@ -7,7 +7,7 @@ class English_language:
         self.indirect_verbs = ["run", "walk", "jump", "swim", "look", "drink", "read", "write"]
         self.prepositions = ["over", "through", "about", "under", "in", "around"]
         self.adjectives = ["hungry", "round", "purple", "blue", "small", "huge", "red", "green", "orange", "pink", "dark", "angry", "depressed", "laughing", "crazy", "dumb", "awesome", "cold", "hot", "warm", "hurt", "light", "filthy", "powerful"]
-        self.adverbs = ["quickly", "suddenly", "often", "slowly", "rapidly", "spontaneously", "voraciously", "rarely", "unexpectedly", "unfortunately"]
+        self.adverbs = ["quickly", "suddenly", "often", "slowly", "rapidly", "spontaneously", "voraciously", "rarely", "unexpectedly", "unfortunately", "warmly", "hurtfuly", "greatly"]
         self.articles = ["the", "a"]
         self.relative_pronouns = ["that", "which"]
         self.vowels = ['a', 'e', 'i', 'o', 'u']
